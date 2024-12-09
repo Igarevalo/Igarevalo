@@ -7,4 +7,4 @@ En los pocos años que llevo aprendiendo he adquirido conocimientos en React Js,
 
 🚀 **Tecnologías y herramientas**
 
-!NestJS
+!NestJS https://react.dev/
