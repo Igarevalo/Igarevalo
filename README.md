@@ -1,4 +1,4 @@
-# Hola! Soy Ignacio  
+# Hola! Soy Ignacio 👋
 ## Full Stack Developer  
 
 Entusiasmado por aprender cosas nuevas y enfrentarme a nuevos retos.
