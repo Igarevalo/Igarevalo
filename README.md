@@ -7,4 +7,4 @@ En los pocos años que llevo aprendiendo he adquirido conocimientos en React Js,
 
 🚀 **Tecnologías y herramientas**
 
-!NestJS https://react.dev/
+[!NestJS https://react.dev/](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
