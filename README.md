@@ -52,4 +52,5 @@ Ansío explorar el mundo del código y el descubrimiento de ideas innovadoras.
 📬 **¿Cómo pueden encontrarme?**
 
 🌐 LinkedIn: [Ignacio Arévalo](https://www.linkedin.com/in/ignacio-ar%C3%A9valo-42bb022a1/)
+
 💌 Email: nachoarevalo11@gmail.com
