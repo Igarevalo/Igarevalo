@@ -8,4 +8,4 @@ En los pocos años que llevo aprendiendo he adquirido conocimientos en React Js,
 🚀 **Tecnologías y herramientas**
 
 ![CSS](https://www.w3schools.com/css/)
-![JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![JS](https://es.wikipedia.org/wiki/JavaScript)
