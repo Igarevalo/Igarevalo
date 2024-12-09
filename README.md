@@ -12,7 +12,7 @@ Ansío explorar el mundo del código y el descubrimiento de ideas innovadoras.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>  
 <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS"/>  
-<img src="https://github.com/jezdez/tailwindcss-icon/raw/main/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>  
@@ -31,9 +31,14 @@ Ansío explorar el mundo del código y el descubrimiento de ideas innovadoras.
 ### 💥 Últimos Proyectos  
 
 - [**Proyecto Final Henry**](https://github.com/Gi4ncarlo/ProyectoFinal-Henry.git)  
-- Sistema de gestión y contratación de Jardineros, utilizando **React**, **Next**, **Nest**, **TypeScript**, entre otras tecnologías.  
+  Sistema de gestión y contratación de Jardineros, utilizando **React**, **Next**, **Nest**, **TypeScript**, entre otras tecnologías.  
 - Plataforma de contratación de servicios con **NestJS** y **TypeORM**  
 - Sitio web interactivo para gestión de tareas usando **Next.js** y **TailwindCSS**  
+
+---
+
+¡Ahora todo debería estar correcto! Si necesitas algún otro ajuste, házmelo saber. 😊
+
 
 ---
 
