@@ -16,8 +16,7 @@ Ansío explorar el mundo del código y el descubrimiento de ideas innovadoras.
 
 ### 💥 Últimos Proyectos  
 
-- [**Proyecto Final Henry**
-Sistema de gestion y contratacion de Jardineros, utilizando React,Next,Nest,TypeScript, entre otras tecnologías.](https://github.com/Gi4ncarlo/ProyectoFinal-Henry.git)
+- [**Proyecto Final Henry**](https://github.com/Gi4ncarlo/ProyectoFinal-Henry.git)
 - Proyecto de Jardinería Vicnasol  
 - Plataforma de contratación de servicios con **NestJS** y **TypeORM**  
 - Sitio web interactivo para gestión de tareas usando **Next.js** y **TailwindCSS**  
