@@ -41,11 +41,12 @@ Ansío explorar el mundo del código y el descubrimiento de ideas innovadoras.
 - [**Proyecto Final Henry**](https://github.com/Gi4ncarlo/ProyectoFinal-Henry.git)  
   Sistema de gestión y contratación de Jardineros, utilizando **React**, **Next**, **Nest**, **TypeScript**, entre otras tecnologías.
   
-- [**Ecommerce**](https://github.com/Negritoyunou/Mi-Proyecto-BH.git)
-  Un ecommerce pero desarrollado puramente desde el lado del Back-End utilizando tecnologías como, **Express**, **NestJS**, **PostgreSQL**
+- [**Ecommerce**](https://github.com/Negritoyunou/Mi-Proyecto-BH.git)  
+  Un ecommerce pero desarrollado puramente desde el lado del Back-End utilizando tecnologías como, **Express**, **NestJS**, **PostgreSQL**.
   
-- [**Proyecto Cine**](https://github.com/Negritoyunou/Proyecto-cine.git)
-  Sitio de búsqueda de películas donde se utilizó, **HTML**, **CSS**, **MongoDB**, **Mongoose**. 
+- [**Proyecto Cine**](https://github.com/Negritoyunou/Proyecto-cine.git)  
+  Sitio de búsqueda de películas donde se utilizó **HTML**, **CSS**, **MongoDB**, **Mongoose**.
+
 
 ---
 
