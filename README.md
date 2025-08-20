@@ -1,10 +1,8 @@
 # Hola! Soy Ignacio 👋
 ## Full Stack Developer  
 
-Entusiasmado por aprender cosas nuevas y enfrentarme a nuevos retos.
-
-En los pocos años que llevo aprendiendo he adquirido conocimientos en **React Js**, **Node.Js**, **NestJS**, **JavaScript**, **Tailwind**, **Typescript**, **TypeOrm**, entre otras.  
-Ansío explorar el mundo del código y el descubrimiento de ideas innovadoras.  
+Full-Stack Developer con experiencia construyendo aplicaciones web con Next.js y NestJS, integrando bases de datos como PostgreSQL y MongoDB. 
+He liderado funciones como autenticación, APIs RESTful, y optimización de rendimiento en proyectos en vivo.  
 
 ---
 
@@ -39,7 +37,7 @@ Ansío explorar el mundo del código y el descubrimiento de ideas innovadoras.
 ### 💥 Últimos Proyectos  
 
 - [**Proyecto Final Henry**](https://github.com/Gi4ncarlo/ProyectoFinal-Henry.git)  
-  Sistema de gestión y contratación de Jardineros, utilizando **React**, **Next**, **Nest**, **TypeScript**, entre otras tecnologías.
+  Sistema de gestión y contratación de Jardineros, utilizando **React**, **Next**, **Nest**, **TypeScript**, implementación de login JWT, UI accesible y responsive, entre otras tecnologías.
   
 - [**Ecommerce**](https://github.com/Negritoyunou/Mi-Proyecto-BH.git)  
   Un ecommerce pero desarrollado puramente desde el lado del Back-End utilizando tecnologías como, **Express**, **NestJS**, **PostgreSQL**.
@@ -61,9 +59,9 @@ Ansío explorar el mundo del código y el descubrimiento de ideas innovadoras.
 ### 📊 Estadísticas
 
 #### 🖥️ Tecnologías más usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Negritoyunou&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igarevalo&layout=compact&theme=radical)
 
 #### 🏆 Contribuciones recientes:
-![GitHub Streak](https://streak-stats.demolab.com/?user=Negritoyunou&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Igarevalo&theme=radical)
 
 
