@@ -65,3 +65,6 @@ He liderado funciones como autenticación, APIs RESTful, y optimización de rend
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Igarevalo&theme=radical)
 
 
+¿Te interesa colaborar o quieres ver más proyectos? No dudes en contactarme o revisar mi LinkedIn
+
+
